@@ -1,0 +1,14 @@
+Servidor iniciado
+Servidor iniciado
+Servidor iniciado
+O cliente com IP 127.0.0.1 se conectou
+O cliente com IP 127.0.0.1 se conectou
+O usuário oi com IP 127.0.0.1 logou com sucesso
+O usuário ola com IP 127.0.0.1 logou com sucesso
+O usuário ola com ip 127.0.0.1 iniciou uma partida com o usuário oi com IP 0.0.0.0
+A partida entre o usuário ola com ip: 127.0.0.1 e o usuário oi com ip: 0.0.0.0 resultou em nada, um usuário pediu o termino da partida antes do fim
+03byeO cliente com IP 127.0.0.1 se desconectou
+03byeO cliente com IP 127.0.0.1 se desconectou
+Servidor iniciado
+Servidor iniciado
+Servidor iniciado
